@@ -1,0 +1,36 @@
+﻿<KeepGoing>
+  <tips>
+     <tip description="introduce">你好，我是Keep Going，很高兴认识你！</tip>
+     <tip description="introduce">与我的互动将会非常轻松，你只需操控四个方向键。</tip>
+     <tip description="remind">Let the communicating start!</tip>
+     <tip description="remind">其实，心灵鸡汤并不是很有用</tip>
+     <tip description="remind">作为一个程序，我不得不去思考我是如何存在的</tip>
+     <tip description="remind">嗨，看这里，我在跟你打招呼呢</tip>
+     <tip description="remind">其实，我刚刚在分散你的注意力</tip>
+     <tip description="remind">这个礼物或许能让你体会到横冲直撞的快感</tip>
+     <afterWinning>
+           <tip>祝贺你首战告捷</tip>
+           <tip>也许，这正是你与众不同的地方</tip>
+           <tip>坦诚地说，我们两个玩得还不错</tip>
+           <tip>强者依旧是强者</tip>
+           <tip>完美通过，我有点怀疑你掌握了我的规律</tip>
+           <tip>这正是你的本色</tip>
+           <tip>To change or not to change,that is the question</tip>
+           <tip>你的敏捷让我瞠目结舌</tip>
+           <tip>你的笑容真地很美，我竟无法用算法来分析其中的秘密</tip>
+           <tip></tip>
+     </afterWinning>
+     <afterLosing>
+           <tip>胜败乃兵家常事</tip>
+           <tip>天才也有失误的时候</tip>
+           <tip>没有人可以永远是顺利的</tip>
+           <tip>请不要压抑自己的愤怒</tip>
+           <tip>有时候，不是我们退步了，而是我们的对手进步得太快</tip>
+           <tip>没有什么是不可以</tip>
+           <tip>To do or not to do,that is your own question</tip>
+           <tip></tip>
+           <tip></tip>
+           <tip></tip>        
+     </afterLosing>
+  </tips>
+</KeepGoing>
